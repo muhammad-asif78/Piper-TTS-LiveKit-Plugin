@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# venv
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+
+# Models / large assets (optional - agar models repo me nahi rakhne)
+models/
+*.onnx
+*.bin
+
+# Test artifacts
+*.wav
+*.mp3
